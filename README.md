@@ -1,2 +1,3 @@
-# -gostack-template-conceitos-nodejs
-Desafio 02 - GoStack! Aplicação para treinar os conceitos do Node.js
+# Desafio 02 - GoStack!
+
+Aplicação para treinar os conceitos do Node.js aprendidos no nível 01 do <strong>GoStack<strong> da <a href="https://rocketseat.com.br/" title="RocketSeat"><strong>Rocketseat</strong></a>.
